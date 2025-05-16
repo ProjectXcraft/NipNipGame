@@ -1,13 +1,13 @@
 {
-  "name": "nipniplauncher",
+  "name": "helioslauncher",
   "version": "2.2.1",
-  "productName": "NipNipLauncher",
+  "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/) And ProjectXcraft",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/ProjectXcraft/NipNipGame",
+  "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/ProjectXcraft/issues"
+    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectXcraft/NipNipLauncher.git"
+    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
   }
 }
