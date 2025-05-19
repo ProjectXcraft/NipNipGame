@@ -17,10 +17,10 @@ The distribution index is written in JSON. The general format of the index is as
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "Example_Server",
-            "name": "WesterosCraft Example Client",
-            "description": "Example WesterosCraft server. Connect for fun!",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "id": "NipNip",
+            "name": "NipNip server",
+            "description": "NipnipCraft Connect for fun!",
+            "icon": "https://drive.google.com/file/d/1nxSslfOtK-lnkcvKJjt5DPah_8Q8Z8R5/view?usp=drive_link",
             "version": "0.0.1",
             "address": "mc.westeroscraft.com:1337",
             "minecraftVersion": "1.11.2",
@@ -81,9 +81,9 @@ A URL to a RSS feed. Used for loading news.
 #### Example
 ```JSON
 {
-    "id": "Example_Server",
-    "name": "WesterosCraft Example Client",
-    "description": "Example WesterosCraft server. Connect for fun!",
+    "id": "Sworld_Server",
+    "name": "Sworld Client",
+    "description": "Sworld server. Connect for fun!",
     "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
     "version": "0.0.1",
     "address": "mc.westeroscraft.com:1337",

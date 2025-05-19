@@ -11,33 +11,33 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "Sworld-1.20.1",
+            "name": "Sworld Production Server",
+            "description": "Main Sworld server. Connect to enter the Realm.",
+            "icon": "https://cdn.discordapp.com/attachments/1009878484434309192/1373322426355552256/SealCircle.png",
             "version": "3.9.4",
             "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "minecraftVersion": "1.20.1",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Sworld Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.11.2-13.20.1.2429",
+                    "id": "net.minecraftforge:forge:1.20.1-47.4.0",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
                         "size": 4450992,
                         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2429/forge-1.11.2-13.20.1.2429-universal.jar"
+                        "url": "https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar"
                     },
                     "subModules": [
                         {
-                            "id": "net.minecraft:launchwrapper:1.12",
+                            "id": "net.minecraft:launchwrapper:1.20.1",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
                             "artifact": {
